@@ -5,4 +5,4 @@ const antijoin = new Collection()
 const antiaddbot = new Collection()
 const antichannel = new Collection()
 
-module.exports = { afk, antijoin, antiaddbot, antichannel }
+module.exports = { afk, antijoin, antiaddbot, antichannel } 
